@@ -1,4 +1,4 @@
-package Lesson18;
+package Lesson;
 
 public class Equals {
         private String fullName;
